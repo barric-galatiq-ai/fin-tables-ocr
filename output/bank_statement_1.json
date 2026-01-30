@@ -1,0 +1,2155 @@
+{
+  "bank_name": "Truist",
+  "account_number": "1340006375358",
+  "statement_period": {
+    "start": "2025-09-30",
+    "end": "2025-10-31"
+  },
+  "summary": {
+    "bank_name": "Truist",
+    "total_transactions": 199,
+    "checks": 58,
+    "withdrawals": 101,
+    "deposits": 40
+  },
+  "lender_summary": {
+    "transfers": {
+      "count": 5,
+      "total": "32385.50",
+      "by_lender": {
+        "United": {
+          "count": 5,
+          "total": "32385.50"
+        }
+      }
+    },
+    "payments": {
+      "count": 50,
+      "total": "55323.18",
+      "by_lender": {
+        "Torro Business Funding": {
+          "count": 13,
+          "total": "4559.00"
+        },
+        "United": {
+          "count": 24,
+          "total": "27215.39"
+        },
+        "Byzfunder": {
+          "count": 4,
+          "total": "8460.00"
+        },
+        "TOP CHOICE FINANCIAL LLC": {
+          "count": 5,
+          "total": "7088.79"
+        },
+        "Aspire Funding": {
+          "count": 4,
+          "total": "8000.00"
+        }
+      }
+    }
+  },
+  "transactions": [
+    {
+      "date": "2025-10-01",
+      "description": "EDI PYMNTS ATLANTIC CORP OF 0009ROA STAFFING LLC CUSTOMER ID 001487399002909",
+      "amount": "3364.12",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-01",
+      "description": "7864084809 UFCE/ 8449090040 ROA STAFFING LL CUSTOMER ID",
+      "amount": "8378.70",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [
+        "United"
+      ],
+      "is_lender_transfer": true,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-01",
+      "description": "INCOMING WIRE TRANSFER WIRE REF# 20251001-00019595",
+      "amount": "21495.00",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-01",
+      "description": "DEBIT CARD RECURRING PYMT GOTHAM HAPymt1of4 09-30 866-783-8247 CT 8149",
+      "amount": "65.99",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-01",
+      "description": "ACH CORP DEBIT ACHPAYMENT GOTORRO ROA STAFFING LLC 92229CUSTOMER ID W133",
+      "amount": "372.50",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "Torro Business Funding"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-01",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": "1179.80",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "United"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-01",
+      "description": "ACH CORP DEBIT PAYMENTS BYZFUNDER ROA STAFFING LLCCUSTOMER ID 000000000000050",
+      "amount": "2115.00",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "Byzfunder"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-01",
+      "description": "BUS ONLINE DOMESTIC WIRE WIRE REF# 20251001-00031037",
+      "amount": "37859.08",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-02",
+      "description": "Check #3705",
+      "amount": "683.00",
+      "transaction_type": "check",
+      "check_number": 3705,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-02",
+      "description": "Check #3718",
+      "amount": "708.75",
+      "transaction_type": "check",
+      "check_number": 3718,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-02",
+      "description": "DAILY CAP OF 3 FEES 36",
+      "amount": "36.00",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-02",
+      "description": "DAILY CAP OF 3 FEES 36",
+      "amount": "36.00",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-02",
+      "description": "DAILY CAP OF 3 FEES 36",
+      "amount": "36.00",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-02",
+      "description": "DEBIT CARD RECURRING PYMT GOOGLE *GSUITE_roa 10-01 cc@google.com CA 3918",
+      "amount": "26.40",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-02",
+      "description": "ACH CORP DEBIT SUPERFAST Top Choice Finan ROA STAFFING LLCCUSTOMER ID",
+      "amount": "29.95",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "TOP CHOICE FINANCIAL LLC"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-02",
+      "description": "ACH CORP DEBIT ACHPAYMENT GOTORRO ROA STAFFING LLC 92274CUSTOMER ID W134",
+      "amount": "372.50",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "Torro Business Funding"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-02",
+      "description": "OVERDRAFT ITEM FEE ($36/ITEM) 36",
+      "amount": "36.00",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-02",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": "1179.80",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "United"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-02",
+      "description": "OVERDRAFT ITEM FEE ($36/ITEM) 36",
+      "amount": "36.00",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-02",
+      "description": "OVERDRAFT ITEM FEE ($36/ITEM) 36",
+      "amount": "36.00",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-02",
+      "description": "OVERDRAFT FEE NOT CHARGED 36",
+      "amount": "36.00",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-02",
+      "description": "RETURNED ITEM FEE NOT CHARGED",
+      "amount": "36.00",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-02",
+      "description": "RETURNED ITEM FEE NOT CHARGED",
+      "amount": "36.00",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-03",
+      "description": "Check #3736",
+      "amount": "622.00",
+      "transaction_type": "check",
+      "check_number": 3736,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-03",
+      "description": "Check #3737",
+      "amount": "632.00",
+      "transaction_type": "check",
+      "check_number": 3737,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-03",
+      "description": "Check #3740",
+      "amount": "108.00",
+      "transaction_type": "check",
+      "check_number": 3740,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-03",
+      "description": "Check #3741",
+      "amount": "181.83",
+      "transaction_type": "check",
+      "check_number": 3741,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-03",
+      "description": "Check #3742",
+      "amount": "858.00",
+      "transaction_type": "check",
+      "check_number": 3742,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-03",
+      "description": "Check #3743",
+      "amount": "2000.00",
+      "transaction_type": "check",
+      "check_number": 3743,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-03",
+      "description": "MOBILE DEPOSIT",
+      "amount": "4043.57",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-03",
+      "description": "PAYABLES C THE HANOR CO ROA STAFFING LLC CUSTOMER ID 009753",
+      "amount": "4875.12",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-03",
+      "description": "EDI PYMNTS ATLANTIC CORP OF 0011ROA STAFFING LLC CUSTOMER ID 001487886363210",
+      "amount": "31095.96",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-03",
+      "description": "DEBIT CARD PURCHASE SPEEDWAY 47007 10-02 LOUISBURG NC 8149",
+      "amount": "57.61",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-03",
+      "description": "ACH CORP DEBIT ACHPAYMENT GOTORRO ROA STAFFING LLC 92332CUSTOMER ID W135",
+      "amount": "372.50",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "Torro Business Funding"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-03",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": "1179.80",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "United"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-03",
+      "description": "ZELLE BUSINESS PAYMENT TO Madeline Guzman PAYMENT ID BBT339269388",
+      "amount": "1010.00",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-06",
+      "description": "Check #3704",
+      "amount": "303.00",
+      "transaction_type": "check",
+      "check_number": 3704,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-06",
+      "description": "Check #3716",
+      "amount": "585.00",
+      "transaction_type": "check",
+      "check_number": 3716,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-06",
+      "description": "MOBILE DEPOSIT",
+      "amount": "4096.35",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-06",
+      "description": "MOBILE DEPOSIT",
+      "amount": "7188.65",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-06",
+      "description": "DEBIT CARD PURCHASE USCELL 5258 10-04 HENDERSON NC 8149",
+      "amount": "356.89",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-06",
+      "description": "ZELLE BUSINESS PAYMENT TO Wilio PAYMENT ID BBT339883738",
+      "amount": "100.00",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-06",
+      "description": "DEBIT CARD PURCHASE SPEEDWAY 47007 10-05 LOUISBURG NC 8149",
+      "amount": "59.67",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-06",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": "79.99",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "United"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-06",
+      "description": "INTERNET PAYMENT PURCHASE American Bank Ch",
+      "amount": "135.82",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-06",
+      "description": "ACH CORP DEBIT ACHPAYMENT GOTORRO ROA STAFFING LLC 92379CUSTOMER ID W136",
+      "amount": "372.50",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "Torro Business Funding"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-06",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": "1179.80",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "United"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-06",
+      "description": "ACH CORP DEBIT ACHPAYMENT ASPIREFUNDING ROA STAFFING LLC 92400CUSTOMER ID W137",
+      "amount": "2000.00",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "Aspire Funding"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-07",
+      "description": "Check #3726",
+      "amount": "537.37",
+      "transaction_type": "check",
+      "check_number": 3726,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-07",
+      "description": "Check #3728",
+      "amount": "680.00",
+      "transaction_type": "check",
+      "check_number": 3728,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-07",
+      "description": "DEPOSIT INTUIT 10370333 ROA STAFFING CUSTOMER ID 524771999465810",
+      "amount": "4048.60",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-07",
+      "description": "EDI PYMNTS ATLANTIC CORP OF 0009ROA STAFFING LLC CUSTOMER ID 001488293433210",
+      "amount": "13969.44",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-07",
+      "description": "ACH CORP DEBIT SUPERFAST Top Choice Finan ROA STAFFING LLCCUSTOMER ID",
+      "amount": "1764.71",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "TOP CHOICE FINANCIAL LLC"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-07",
+      "description": "ACH CORP DEBIT TRAN FEE INTUIT 21178553 ROA STAFFINGCUSTOMER ID 524771999465810",
+      "amount": "40.49",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-07",
+      "description": "ACH CORP DEBIT ACHPAYMENT GOTORRO ROA STAFFING LLC 92426CUSTOMER ID W138",
+      "amount": "372.50",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "Torro Business Funding"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-07",
+      "description": "AGNT PYMNT Goodleap 8537 Moises Roa Ortiz",
+      "amount": "502.26",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-07",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": "1179.80",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "United"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-08",
+      "description": "Check #3649",
+      "amount": "673.00",
+      "transaction_type": "check",
+      "check_number": 3649,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-08",
+      "description": "7864084809 UFCE/ 8449090040 ROA STAFFING LL CUSTOMER ID",
+      "amount": "8378.70",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [
+        "United"
+      ],
+      "is_lender_transfer": true,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-08",
+      "description": "ACH CORP DEBIT ACHPAYMENT GOTORRO ROA STAFFING LLC 92481CUSTOMER ID W139",
+      "amount": "372.50",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "Torro Business Funding"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-08",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": "1179.80",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "United"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-08",
+      "description": "ACH CORP DEBIT PAYMENTS BYZFUNDER ROA STAFFING LLCCUSTOMER ID 000000000000045",
+      "amount": "2115.00",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "Byzfunder"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-08",
+      "description": "BUS ONLINE DOMESTIC WIRE WIRE REF# 20251008-00005283",
+      "amount": "39832.51",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-09",
+      "description": "Check #3647",
+      "amount": "545.00",
+      "transaction_type": "check",
+      "check_number": 3647,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-09",
+      "description": "ACH CORP DEBIT ACHPAYMENT GOTORRO ROA STAFFING LLC 92523CUSTOMER ID W140",
+      "amount": "372.50",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "Torro Business Funding"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-09",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": "1179.80",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "United"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-10",
+      "description": "Check #3751",
+      "amount": "467.00",
+      "transaction_type": "check",
+      "check_number": 3751,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-10",
+      "description": "Check #3708",
+      "amount": "225.00",
+      "transaction_type": "check",
+      "check_number": 3708,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-10",
+      "description": "Check #3744",
+      "amount": "622.00",
+      "transaction_type": "check",
+      "check_number": 3744,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-10",
+      "description": "MOBILE DEPOSIT",
+      "amount": "4076.28",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-10",
+      "description": "PAYABLES C THE HANOR CO ROA STAFFING LLC CUSTOMER ID 009753",
+      "amount": "5617.31",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-10",
+      "description": "EDI PYMNTS ATLANTIC CORP OF 0009ROA STAFFING LLC CUSTOMER ID 001488777093210",
+      "amount": "5661.80",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-10",
+      "description": "MOBILE DEPOSIT",
+      "amount": "7348.25",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-10",
+      "description": "DEBIT CARD PURCHASE LOWES #00738* 10-09 HENDERSON NC 8149",
+      "amount": "96.01",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-10",
+      "description": "DEBIT CARD PURCHASE TONEY ACE 10-09 LOUISBURG NC 8149",
+      "amount": "21.33",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-10",
+      "description": "ACH CORP DEBIT ACHPAYMENT GOTORRO ROA STAFFING LLC 92575CUSTOMER ID W141",
+      "amount": "372.50",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "Torro Business Funding"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-10",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": "1179.80",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "United"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-10",
+      "description": "ZELLE BUSINESS PAYMENT TO Madeline Guzman PAYMENT ID BBT340875621",
+      "amount": "1001.00",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-14",
+      "description": "Check #3648",
+      "amount": "673.00",
+      "transaction_type": "check",
+      "check_number": 3648,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-14",
+      "description": "Check #3752",
+      "amount": "729.28",
+      "transaction_type": "check",
+      "check_number": 3752,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-14",
+      "description": "Check #3712",
+      "amount": "126.72",
+      "transaction_type": "check",
+      "check_number": 3712,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-14",
+      "description": "DEPOSIT INTUIT 30788943 ROA STAFFING CUSTOMER ID 524771999465810",
+      "amount": "1828.10",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-14",
+      "description": "MOBILE DEPOSIT",
+      "amount": "5021.84",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-14",
+      "description": "DEBIT CARD PURCHASE SPEEDWAY 47007 10-10 LOUISBURG NC 8149",
+      "amount": "66.67",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-14",
+      "description": "ACH CORP DEBIT ACHPAYMENT GOTORRO ROA STAFFING LLC 92631CUSTOMER ID W142",
+      "amount": "372.50",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "Torro Business Funding"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-14",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": "1179.80",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "United"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-14",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": "1179.80",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "United"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-14",
+      "description": "ACH CORP DEBIT ACHPAYMENT ASPIREFUNDING ROA STAFFING LLC 92651CUSTOMER ID W143",
+      "amount": "2000.00",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "Aspire Funding"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-14",
+      "description": "ACH CORP DEBIT TRAN FEE INTUIT 41187503 ROA STAFFINGCUSTOMER ID 524771999465810",
+      "amount": "18.28",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-15",
+      "description": "Check #3738",
+      "amount": "440.00",
+      "transaction_type": "check",
+      "check_number": 3738,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-15",
+      "description": "7864084809 UFCE/ 8449090040 ROA STAFFING LL CUSTOMER ID",
+      "amount": "8078.70",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [
+        "United"
+      ],
+      "is_lender_transfer": true,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-15",
+      "description": "DEBIT CARD PURCHASE SAMS CLUB #4946 10-14 ROCKY MOUNT NC 8149",
+      "amount": "164.36",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-15",
+      "description": "DEBIT CARD PURCHASE LOWES #00547* 10-14 ROCKY MOUNT NC 8149",
+      "amount": "15.99",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-15",
+      "description": "DEBIT CARD PURCHASE CIRCLE K 01513 10-14 ROCKY MOUNT NC 8149",
+      "amount": "45.20",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-15",
+      "description": "E-CHECK LH DickensandSon 5066 Moises Ortiz",
+      "amount": "641.22",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-15",
+      "description": "ACH CORP DEBIT ACHPAYMENT GOTORRO ROA STAFFING LLC 39164CUSTOMER ID W146",
+      "amount": "89.00",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "Torro Business Funding"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-15",
+      "description": "ACH CORP DEBIT ACHPAYMENT GOTORRO ROA STAFFING LLC 92665CUSTOMER ID W144",
+      "amount": "372.50",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "Torro Business Funding"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-15",
+      "description": "ACH CORP DEBIT ACHPAYMENT GOTORRO ROA STAFFING LLC 92710CUSTOMER ID W145",
+      "amount": "372.50",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "Torro Business Funding"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-15",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": "1179.80",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "United"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-15",
+      "description": "ACH CORP DEBIT PAYMENTS BYZFUNDER ROA STAFFING LLCCUSTOMER ID 000000000000041",
+      "amount": "2115.00",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "Byzfunder"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-15",
+      "description": "ZELLE BUSINESS PAYMENT TO Wilio PAYMENT ID BBT341965095",
+      "amount": "200.00",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-15",
+      "description": "BUS ONLINE DOMESTIC WIRE WIRE REF# 20251015-00009306",
+      "amount": "29215.57",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-16",
+      "description": "Check #3746",
+      "amount": "99.40",
+      "transaction_type": "check",
+      "check_number": 3746,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-16",
+      "description": "Check #3767",
+      "amount": "176.00",
+      "transaction_type": "check",
+      "check_number": 3767,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-16",
+      "description": "Check #3749",
+      "amount": "84.66",
+      "transaction_type": "check",
+      "check_number": 3749,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-16",
+      "description": "Check #3750",
+      "amount": "84.00",
+      "transaction_type": "check",
+      "check_number": 3750,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-16",
+      "description": "Check #3745",
+      "amount": "198.00",
+      "transaction_type": "check",
+      "check_number": 3745,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-16",
+      "description": "ACH CORP DEBIT ACHPAYMENT GOTORRO ROA STAFFING LLC 92751CUSTOMER ID W147",
+      "amount": "372.50",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "Torro Business Funding"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-16",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": "1179.80",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "United"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-17",
+      "description": "Check #3768",
+      "amount": "43.52",
+      "transaction_type": "check",
+      "check_number": 3768,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-17",
+      "description": "Check #3769",
+      "amount": "200.00",
+      "transaction_type": "check",
+      "check_number": 3769,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-17",
+      "description": "Check #3753",
+      "amount": "555.00",
+      "transaction_type": "check",
+      "check_number": 3753,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-17",
+      "description": "Check #3755",
+      "amount": "635.00",
+      "transaction_type": "check",
+      "check_number": 3755,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-17",
+      "description": "Check #3760",
+      "amount": "512.30",
+      "transaction_type": "check",
+      "check_number": 3760,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-17",
+      "description": "Check #3766",
+      "amount": "482.84",
+      "transaction_type": "check",
+      "check_number": 3766,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-17",
+      "description": "PAYABLES C THE HANOR CO ROA STAFFING LLC CUSTOMER ID 009753",
+      "amount": "5178.99",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-17",
+      "description": "EDI PYMNTS ATLANTIC CORP OF 0010ROA STAFFING LLC CUSTOMER ID 001489861424410",
+      "amount": "5478.31",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-17",
+      "description": "DEBIT CARD PURCHASE LOWES #00738* 10-16 HENDERSON NC 8149",
+      "amount": "23.02",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-17",
+      "description": "ACH CORP DEBIT SUPERFAST Top Choice Finan ROA STAFFING LLCCUSTOMER ID",
+      "amount": "1764.71",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "TOP CHOICE FINANCIAL LLC"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-17",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": "1179.80",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "United"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-20",
+      "description": "Check #3770",
+      "amount": "300.00",
+      "transaction_type": "check",
+      "check_number": 3770,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-20",
+      "description": "Check #3756",
+      "amount": "756.00",
+      "transaction_type": "check",
+      "check_number": 3756,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-20",
+      "description": "Check #3762",
+      "amount": "542.79",
+      "transaction_type": "check",
+      "check_number": 3762,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-20",
+      "description": "Check #3764",
+      "amount": "516.30",
+      "transaction_type": "check",
+      "check_number": 3764,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-20",
+      "description": "Check #3765",
+      "amount": "516.30",
+      "transaction_type": "check",
+      "check_number": 3765,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-20",
+      "description": "MOBILE DEPOSIT",
+      "amount": "3756.62",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-20",
+      "description": "MOBILE DEPOSIT",
+      "amount": "4036.63",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-20",
+      "description": "MOBILE DEPOSIT",
+      "amount": "8027.05",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-20",
+      "description": "2025-10-20 LIVE COMFORTABLY ROA STAFFING LLC CUSTOMER ID",
+      "amount": "15426.50",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-20",
+      "description": "DEBIT CARD RECURRING PYMT ALLSTATE877-927-72 10-17 SAN FRANCISCO CA 3918",
+      "amount": "21.34",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-20",
+      "description": "DEBIT CARD PURCHASE SPEEDWAY 47007 10-18 LOUISBURG NC 8149",
+      "amount": "57.66",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-20",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": "1179.80",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "United"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-20",
+      "description": "ACH CORP DEBIT ACHPAYMENT ASPIREFUNDING ROA STAFFING LLC 92885CUSTOMER ID W148",
+      "amount": "2000.00",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "Aspire Funding"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-21",
+      "description": "Check #3748",
+      "amount": "360.00",
+      "transaction_type": "check",
+      "check_number": 3748,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-21",
+      "description": "Check #3758",
+      "amount": "572.58",
+      "transaction_type": "check",
+      "check_number": 3758,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-21",
+      "description": "Check #3759",
+      "amount": "600.00",
+      "transaction_type": "check",
+      "check_number": 3759,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-21",
+      "description": "Check #3761",
+      "amount": "537.37",
+      "transaction_type": "check",
+      "check_number": 3761,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-21",
+      "description": "Check #3763",
+      "amount": "506.30",
+      "transaction_type": "check",
+      "check_number": 3763,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-21",
+      "description": "DEPOSIT INTUIT 50356593 ROA STAFFING CUSTOMER ID 524771999465810",
+      "amount": "918.00",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-21",
+      "description": "EDI PYMNTS ATLANTIC CORP OF 0011ROA STAFFING LLC CUSTOMER ID 001490251270110",
+      "amount": "20958.65",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-21",
+      "description": "DEBIT CARD PURCHASE LOWES #00738* 10-20 HENDERSON NC 8149",
+      "amount": "129.25",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-21",
+      "description": "ACH CORP DEBIT SUPERFAST Top Choice Finan ROA STAFFING LLCCUSTOMER ID",
+      "amount": "1764.71",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "TOP CHOICE FINANCIAL LLC"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-21",
+      "description": "ACH CORP DEBIT TRAN FEE INTUIT 60306303 ROA STAFFINGCUSTOMER ID 524771999465810",
+      "amount": "9.18",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-21",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": "1179.80",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "United"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-21",
+      "description": "SERVICE CHARGES - PRIOR PERIOD",
+      "amount": "104.50",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-22",
+      "description": "Check #3771",
+      "amount": "600.00",
+      "transaction_type": "check",
+      "check_number": 3771,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-22",
+      "description": "DEPOSIT INTUIT 52996343 ROA STAFFING CUSTOMER ID 524771999465810",
+      "amount": "932.89",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-22",
+      "description": "7864084809 UFCE/ 8449090040 ROA STAFFING LL CUSTOMER ID",
+      "amount": "3784.70",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [
+        "United"
+      ],
+      "is_lender_transfer": true,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-22",
+      "description": "ACH CORP DEBIT TRAN FEE INTUIT 62911983 ROA STAFFINGCUSTOMER ID 524771999465810",
+      "amount": "9.33",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-22",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": "1179.80",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "United"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-22",
+      "description": "ACH CORP DEBIT PAYMENTS BYZFUNDER ROA STAFFING LLCCUSTOMER ID 000000000000036",
+      "amount": "2115.00",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "Byzfunder"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-22",
+      "description": "BUS ONLINE DOMESTIC WIRE WIRE REF# 20251022-00014626",
+      "amount": "36758.33",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-23",
+      "description": "Check #3754",
+      "amount": "756.00",
+      "transaction_type": "check",
+      "check_number": 3754,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-23",
+      "description": "DEBIT CARD PURCHASE AMAZON MKTPL*NU7SI 10-22 Amzn.com/bill WA 3918",
+      "amount": "191.98",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-23",
+      "description": "DEBIT CARD PURCHASE SPEEDWAY 47007 10-22 LOUISBURG NC 8149",
+      "amount": "66.32",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-23",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": "1179.80",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "United"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-24",
+      "description": "MOBILE DEPOSIT",
+      "amount": "3810.31",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-24",
+      "description": "PAYABLES C THE HANOR CO ROA STAFFING LLC CUSTOMER ID 009753",
+      "amount": "4799.46",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-24",
+      "description": "MOBILE DEPOSIT",
+      "amount": "7777.18",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-24",
+      "description": "RECURRING INTERNET PAYMENT Ext Trnsfr JPMorgan Chase 26320631311",
+      "amount": "610.00",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-24",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": "1179.80",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "United"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-24",
+      "description": "ZELLE BUSINESS PAYMENT TO Moises Ortiz PAYMENT ID BBT344205641",
+      "amount": "600.00",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-24",
+      "description": "ZELLE BUSINESS PAYMENT TO Moises Ortiz PAYMENT ID BBT344205762",
+      "amount": "600.00",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-27",
+      "description": "Check #3773",
+      "amount": "402.00",
+      "transaction_type": "check",
+      "check_number": 3773,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-27",
+      "description": "Check #3774",
+      "amount": "88.00",
+      "transaction_type": "check",
+      "check_number": 3774,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-27",
+      "description": "Check #3775",
+      "amount": "300.00",
+      "transaction_type": "check",
+      "check_number": 3775,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-27",
+      "description": "MOBILE DEPOSIT",
+      "amount": "3352.45",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-27",
+      "description": "DEBIT CARD RECURRING PYMT INTUIT *QBooks Onl 10-24 CL.INTUIT.COM CA 3918",
+      "amount": "38.00",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-27",
+      "description": "DEBIT CARD PURCHASE SPEEDWAY 47007 10-25 LOUISBURG NC 8149",
+      "amount": "53.26",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-27",
+      "description": "DEBIT CARD RECURRING PYMT BRIGHTSPEED 10-26 833-692-7773 NC 3918",
+      "amount": "75.00",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-27",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": "1179.80",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "United"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-27",
+      "description": "ACH CORP DEBIT ACHPAYMENT ASPIREFUNDING ROA STAFFING LLC 93250CUSTOMER ID W149",
+      "amount": "2000.00",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "Aspire Funding"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-28",
+      "description": "DEPOSIT INTUIT 68258153 ROA STAFFING CUSTOMER ID 524771999465810",
+      "amount": "1763.11",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-28",
+      "description": "ACH CORP DEBIT SUPERFAST Top Choice Finan ROA STAFFING LLCCUSTOMER ID",
+      "amount": "1764.71",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "TOP CHOICE FINANCIAL LLC"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-28",
+      "description": "ACH CORP DEBIT TRAN FEE INTUIT 77830813 ROA STAFFINGCUSTOMER ID 524771999465810",
+      "amount": "35.90",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-28",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": "1179.80",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "United"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-29",
+      "description": "Check #3776",
+      "amount": "480.00",
+      "transaction_type": "check",
+      "check_number": 3776,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-29",
+      "description": "7864084809 UFCE/ 8449090040 ROA STAFFING LL CUSTOMER ID",
+      "amount": "3764.70",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [
+        "United"
+      ],
+      "is_lender_transfer": true,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-29",
+      "description": "DEBIT CARD RECURRING PYMT ALLSTATE *PAYME 10-28 800-255-7828 IL 3918",
+      "amount": "691.13",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-29",
+      "description": "DEBIT CARD PURCHASE TRACTOR SUPPLY #22 10-28 LOUISBURG NC 8149",
+      "amount": "89.17",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-29",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": "1179.80",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "United"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-29",
+      "description": "BUS ONLINE DOMESTIC WIRE WIRE REF# 20251029-00019725",
+      "amount": "21767.77",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-30",
+      "description": "Check #3788",
+      "amount": "158.00",
+      "transaction_type": "check",
+      "check_number": 3788,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-30",
+      "description": "2025-10-30 LIVE COMFORTABLY ROA STAFFING LLC CUSTOMER ID",
+      "amount": "1200.47",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-30",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": "1179.80",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "United"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    },
+    {
+      "date": "2025-10-31",
+      "description": "Check #3780",
+      "amount": "515.87",
+      "transaction_type": "check",
+      "check_number": 3780,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-31",
+      "description": "Check #3781",
+      "amount": "566.66",
+      "transaction_type": "check",
+      "check_number": 3781,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-31",
+      "description": "Check #3790",
+      "amount": "506.30",
+      "transaction_type": "check",
+      "check_number": 3790,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-31",
+      "description": "Check #3793",
+      "amount": "506.30",
+      "transaction_type": "check",
+      "check_number": 3793,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-31",
+      "description": "Check #3794",
+      "amount": "679.31",
+      "transaction_type": "check",
+      "check_number": 3794,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-31",
+      "description": "Check #3797",
+      "amount": "516.30",
+      "transaction_type": "check",
+      "check_number": 3797,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-31",
+      "description": "Check #3798",
+      "amount": "516.47",
+      "transaction_type": "check",
+      "check_number": 3798,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-31",
+      "description": "Check #3802",
+      "amount": "600.00",
+      "transaction_type": "check",
+      "check_number": 3802,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-31",
+      "description": "Check #3803",
+      "amount": "121.21",
+      "transaction_type": "check",
+      "check_number": 3803,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-31",
+      "description": "MOBILE DEPOSIT",
+      "amount": "4437.80",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-31",
+      "description": "PAYABLES C THE HANOR CO ROA STAFFING LLC CUSTOMER ID 009753",
+      "amount": "4546.24",
+      "transaction_type": "deposit",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-31",
+      "description": "DEBIT CARD RECURRING PYMT GOTHAM HAPymt2of4 10-30 866-783-8247 CT 8149",
+      "amount": "49.99",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-31",
+      "description": "DEBIT CARD PURCHASE NCDMV REG 081 LOUI 10-30 LOUISBURG NC 8149",
+      "amount": "157.61",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [],
+      "is_lender_transfer": false,
+      "is_lender_payment": false
+    },
+    {
+      "date": "2025-10-31",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": "1179.80",
+      "transaction_type": "withdrawal",
+      "check_number": null,
+      "lender_matches": [
+        "United"
+      ],
+      "is_lender_transfer": false,
+      "is_lender_payment": true
+    }
+  ]
+}

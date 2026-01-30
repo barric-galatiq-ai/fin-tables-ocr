@@ -1,0 +1,688 @@
+{
+  "status": "success",
+  "document_format": "bank_statement",
+  "accounts": [
+    {
+      "accountId": "5358",
+      "accountName": "Primary Account",
+      "transfers": 0,
+      "payments": 8525.99,
+      "lenders": 2,
+      "lenderNames": [
+        "Byzfunder",
+        "GOTHAM HA"
+      ],
+      "deposits": 76463.68,
+      "aggregateDeposits": 76463.68,
+      "aggregatePayments": 8525.99
+    }
+  ],
+  "global_metrics": {
+    "90_day_total_lender_payments": 8525.99,
+    "90_day_total_inbound_transfers": 76463.68000000001,
+    "90_day_total_lender_credits": 0,
+    "90_day_unique_lenders_paid": 2,
+    "90_day_lender_names": [
+      "Byzfunder",
+      "GOTHAM HA"
+    ],
+    "90_day_total_deposits": 76463.68000000001,
+    "90_day_transaction_count": 149,
+    "monthly_total_lender_payments": 8525.99,
+    "monthly_total_inbound_transfers": 76463.68000000001,
+    "monthly_total_lender_credits": 0,
+    "monthly_unique_lenders_paid": 2,
+    "monthly_lender_names": [
+      "Byzfunder",
+      "GOTHAM HA"
+    ],
+    "monthly_total_deposits": 252624.55,
+    "monthly_transaction_count": 149,
+    "monthly_deposits_source": "statement",
+    "date_range": {
+      "earliest": "2025-10-01",
+      "latest": "2025-10-31"
+    },
+    "transactions_processed": 149
+  },
+  "statement_totals": {
+    "total_deposits": 252624.55,
+    "total_withdrawals": 229210.27,
+    "source": "statement"
+  },
+  "unclassified_transactions": [
+    {
+      "date": "2025-10-09",
+      "description": "3647 545.00 10/16 3746 99.40 10/16 3767",
+      "amount": -176.0
+    },
+    {
+      "date": "2025-10-14",
+      "description": "3648 673.00 10/21 3748 360.00 10/17 3768",
+      "amount": -43.52
+    },
+    {
+      "date": "2025-10-08",
+      "description": "3649 673.00 10/16 3749 84.66 10/17 3769",
+      "amount": -200.0
+    },
+    {
+      "date": "2025-10-06",
+      "description": "3704 303.00 10/16 3750 84.00 10/20 3770",
+      "amount": -300.0
+    },
+    {
+      "date": "2025-10-02",
+      "description": "3705 683.00 10/10 3751 467.00 10/22 3771",
+      "amount": -600.0
+    },
+    {
+      "date": "2025-10-10",
+      "description": "3708 225.00 10/14 3752 729.28 10/27 3773",
+      "amount": -402.0
+    },
+    {
+      "date": "2025-10-14",
+      "description": "3712 126.72 10/17 3753 555.00 10/27 3774",
+      "amount": -88.0
+    },
+    {
+      "date": "2025-10-02",
+      "description": "3718 708.75 10/17 3755 635.00 10/29 3776",
+      "amount": -480.0
+    },
+    {
+      "date": "2025-10-07",
+      "description": "3726 537.37 10/20 3756 756.00 10/31 3780",
+      "amount": -515.87
+    },
+    {
+      "date": "2025-10-07",
+      "description": "3728 680.00 10/21 3758 572.58 10/31 3781",
+      "amount": -566.66
+    },
+    {
+      "date": "2025-10-03",
+      "description": "3736 622.00 10/21 3759 600.00 10/30 3788",
+      "amount": -158.0
+    },
+    {
+      "date": "2025-10-03",
+      "description": "3737 632.00 10/17 3760 512.30 10/31 3790",
+      "amount": -506.3
+    },
+    {
+      "date": "2025-10-15",
+      "description": "3738 440.00 10/21 3761 537.37 10/31 3793",
+      "amount": -506.3
+    },
+    {
+      "date": "2025-10-03",
+      "description": "3740 108.00 10/20 3762 542.79 10/31 3794",
+      "amount": -679.31
+    },
+    {
+      "date": "2025-10-03",
+      "description": "3741 181.83 10/21 3763 506.30 10/31 3797",
+      "amount": -516.3
+    },
+    {
+      "date": "2025-10-03",
+      "description": "3742 858.00 10/20 3764 516.30 10/31 3798",
+      "amount": -516.47
+    },
+    {
+      "date": "2025-10-03",
+      "description": "3743 2,000.00 10/20 3765 516.30 10/31 3802",
+      "amount": -600.0
+    },
+    {
+      "date": "2025-10-10",
+      "description": "3744 622.00 10/17 3766 482.84 10/31 3803",
+      "amount": -121.21
+    },
+    {
+      "date": "2025-10-16",
+      "description": "3745",
+      "amount": -198.0
+    },
+    {
+      "date": "2025-10-01",
+      "description": "ACH CORP DEBIT ACHPAYMENT GOTORRO ROA STAFFING LLC 92229CUSTOMER ID W133",
+      "amount": -372.5
+    },
+    {
+      "date": "2025-10-01",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": -1179.8
+    },
+    {
+      "date": "2025-10-01",
+      "description": "BUS ONLINE DOMESTIC WIRE WIRE REF# 20251001-00031037",
+      "amount": -37859.08
+    },
+    {
+      "date": "2025-10-02",
+      "description": "DEBIT CARD RECURRING PYMT GOOGLE *GSUITE_roa 10-01 cc@google.com CA 3918",
+      "amount": -26.4
+    },
+    {
+      "date": "2025-10-02",
+      "description": "ACH CORP DEBIT SUPERFAST Top Choice Finan ROA STAFFING LLCCUSTOMER ID",
+      "amount": -29.95
+    },
+    {
+      "date": "2025-10-02",
+      "description": "ACH CORP DEBIT ACHPAYMENT GOTORRO ROA STAFFING LLC 92274CUSTOMER ID W134",
+      "amount": -372.5
+    },
+    {
+      "date": "2025-10-02",
+      "description": "OVERDRAFT ITEM FEE ($36/ITEM) 36",
+      "amount": -36.0
+    },
+    {
+      "date": "2025-10-02",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": -1179.8
+    },
+    {
+      "date": "2025-10-03",
+      "description": "DEBIT CARD PURCHASE SPEEDWAY 47007 10-02 LOUISBURG NC 8149",
+      "amount": -57.61
+    },
+    {
+      "date": "2025-10-03",
+      "description": "ACH CORP DEBIT ACHPAYMENT GOTORRO ROA STAFFING LLC 92332CUSTOMER ID W135",
+      "amount": -372.5
+    },
+    {
+      "date": "2025-10-03",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": -1179.8
+    },
+    {
+      "date": "2025-10-03",
+      "description": "ZELLE BUSINESS PAYMENT TO Madeline Guzman PAYMENT ID BBT339269388",
+      "amount": -1010.0
+    },
+    {
+      "date": "2025-10-06",
+      "description": "DEBIT CARD PURCHASE USCELL 5258 10-04 HENDERSON NC 8149",
+      "amount": -356.89
+    },
+    {
+      "date": "2025-10-06",
+      "description": "ZELLE BUSINESS PAYMENT TO Wilio PAYMENT ID BBT339883738",
+      "amount": -100.0
+    },
+    {
+      "date": "2025-10-06",
+      "description": "DEBIT CARD PURCHASE SPEEDWAY 47007 10-05 LOUISBURG NC 8149",
+      "amount": -59.67
+    },
+    {
+      "date": "2025-10-06",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": -79.99
+    },
+    {
+      "date": "2025-10-06",
+      "description": "INTERNET PAYMENT PURCHASE American Bank Ch",
+      "amount": -135.82
+    },
+    {
+      "date": "2025-10-06",
+      "description": "ACH CORP DEBIT ACHPAYMENT GOTORRO ROA STAFFING LLC 92379CUSTOMER ID W136",
+      "amount": -372.5
+    },
+    {
+      "date": "2025-10-06",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": -1179.8
+    },
+    {
+      "date": "2025-10-06",
+      "description": "ACH CORP DEBIT ACHPAYMENT ASPIREFUNDING ROA STAFFING LLC 92400CUSTOMER ID W137",
+      "amount": -2000.0
+    },
+    {
+      "date": "2025-10-07",
+      "description": "ACH CORP DEBIT SUPERFAST Top Choice Finan ROA STAFFING LLCCUSTOMER ID",
+      "amount": -1764.71
+    },
+    {
+      "date": "2025-10-07",
+      "description": "ACH CORP DEBIT TRAN FEE INTUIT 21178553 ROA STAFFINGCUSTOMER ID 524771999465810",
+      "amount": -40.49
+    },
+    {
+      "date": "2025-10-07",
+      "description": "ACH CORP DEBIT ACHPAYMENT GOTORRO ROA STAFFING LLC 92426CUSTOMER ID W138",
+      "amount": -372.5
+    },
+    {
+      "date": "2025-10-07",
+      "description": "AGNT PYMNT Goodleap 8537 Moises Roa Ortiz",
+      "amount": -502.26
+    },
+    {
+      "date": "2025-10-07",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": -1179.8
+    },
+    {
+      "date": "2025-10-08",
+      "description": "ACH CORP DEBIT ACHPAYMENT GOTORRO ROA STAFFING LLC 92481CUSTOMER ID W139",
+      "amount": -372.5
+    },
+    {
+      "date": "2025-10-08",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": -1179.8
+    },
+    {
+      "date": "2025-10-08",
+      "description": "BUS ONLINE DOMESTIC WIRE WIRE REF# 20251008-00005283",
+      "amount": -39832.51
+    },
+    {
+      "date": "2025-10-09",
+      "description": "ACH CORP DEBIT ACHPAYMENT GOTORRO ROA STAFFING LLC 92523CUSTOMER ID W140",
+      "amount": -372.5
+    },
+    {
+      "date": "2025-10-09",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": -1179.8
+    },
+    {
+      "date": "2025-10-10",
+      "description": "DEBIT CARD PURCHASE LOWES #00738* 10-09 HENDERSON NC 8149",
+      "amount": -96.01
+    },
+    {
+      "date": "2025-10-10",
+      "description": "DEBIT CARD PURCHASE TONEY ACE 10-09 LOUISBURG NC 8149",
+      "amount": -21.33
+    },
+    {
+      "date": "2025-10-10",
+      "description": "ACH CORP DEBIT ACHPAYMENT GOTORRO ROA STAFFING LLC 92575CUSTOMER ID W141",
+      "amount": -372.5
+    },
+    {
+      "date": "2025-10-10",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": -1179.8
+    },
+    {
+      "date": "2025-10-10",
+      "description": "ZELLE BUSINESS PAYMENT TO Madeline Guzman PAYMENT ID BBT340875621",
+      "amount": -1001.0
+    },
+    {
+      "date": "2025-10-14",
+      "description": "DEBIT CARD PURCHASE SPEEDWAY 47007 10-10 LOUISBURG NC 8149",
+      "amount": -66.67
+    },
+    {
+      "date": "2025-10-14",
+      "description": "ACH CORP DEBIT ACHPAYMENT GOTORRO ROA STAFFING LLC 92631CUSTOMER ID W142",
+      "amount": -372.5
+    },
+    {
+      "date": "2025-10-14",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": -1179.8
+    },
+    {
+      "date": "2025-10-14",
+      "description": "ACH CORP DEBIT ACHPAYMENT ASPIREFUNDING ROA STAFFING LLC 92651CUSTOMER ID W143",
+      "amount": -2000.0
+    },
+    {
+      "date": "2025-10-14",
+      "description": "ACH CORP DEBIT TRAN FEE INTUIT 41187503 ROA STAFFINGCUSTOMER ID 524771999465810",
+      "amount": -18.28
+    },
+    {
+      "date": "2025-10-15",
+      "description": "DEBIT CARD PURCHASE SAMS CLUB #4946 10-14 ROCKY MOUNT NC 8149",
+      "amount": -164.36
+    },
+    {
+      "date": "2025-10-15",
+      "description": "DEBIT CARD PURCHASE LOWES #00547* 10-14 ROCKY MOUNT NC 8149",
+      "amount": -15.99
+    },
+    {
+      "date": "2025-10-15",
+      "description": "DEBIT CARD PURCHASE CIRCLE K 01513 10-14 ROCKY MOUNT NC 8149",
+      "amount": -45.2
+    },
+    {
+      "date": "2025-10-15",
+      "description": "E-CHECK LH DickensandSon 5066 Moises Ortiz",
+      "amount": -641.22
+    },
+    {
+      "date": "2025-10-15",
+      "description": "ACH CORP DEBIT ACHPAYMENT GOTORRO ROA STAFFING LLC 39164CUSTOMER ID W146",
+      "amount": -89.0
+    },
+    {
+      "date": "2025-10-15",
+      "description": "ACH CORP DEBIT ACHPAYMENT GOTORRO ROA STAFFING LLC 92665CUSTOMER ID W144",
+      "amount": -372.5
+    },
+    {
+      "date": "2025-10-15",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": -1179.8
+    },
+    {
+      "date": "2025-10-15",
+      "description": "ZELLE BUSINESS PAYMENT TO Wilio PAYMENT ID BBT341965095",
+      "amount": -200.0
+    },
+    {
+      "date": "2025-10-15",
+      "description": "BUS ONLINE DOMESTIC WIRE WIRE REF# 20251015-00009306",
+      "amount": -29215.57
+    },
+    {
+      "date": "2025-10-16",
+      "description": "ACH CORP DEBIT ACHPAYMENT GOTORRO ROA STAFFING LLC 92751CUSTOMER ID W147",
+      "amount": -372.5
+    },
+    {
+      "date": "2025-10-16",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": -1179.8
+    },
+    {
+      "date": "2025-10-17",
+      "description": "DEBIT CARD PURCHASE LOWES #00738* 10-16 HENDERSON NC 8149",
+      "amount": -23.02
+    },
+    {
+      "date": "2025-10-17",
+      "description": "ACH CORP DEBIT SUPERFAST Top Choice Finan ROA STAFFING LLCCUSTOMER ID",
+      "amount": -1764.71
+    },
+    {
+      "date": "2025-10-17",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": -1179.8
+    },
+    {
+      "date": "2025-10-20",
+      "description": "DEBIT CARD RECURRING PYMT ALLSTATE877-927-72 10-17 SAN FRANCISCO CA 3918",
+      "amount": -21.34
+    },
+    {
+      "date": "2025-10-20",
+      "description": "DEBIT CARD PURCHASE SPEEDWAY 47007 10-18 LOUISBURG NC 8149",
+      "amount": -57.66
+    },
+    {
+      "date": "2025-10-20",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": -1179.8
+    },
+    {
+      "date": "2025-10-20",
+      "description": "ACH CORP DEBIT ACHPAYMENT ASPIREFUNDING ROA STAFFING LLC 92885CUSTOMER ID W148",
+      "amount": -2000.0
+    },
+    {
+      "date": "2025-10-21",
+      "description": "DEBIT CARD PURCHASE LOWES #00738* 10-20 HENDERSON NC 8149",
+      "amount": -129.25
+    },
+    {
+      "date": "2025-10-21",
+      "description": "ACH CORP DEBIT SUPERFAST Top Choice Finan ROA STAFFING LLCCUSTOMER ID",
+      "amount": -1764.71
+    },
+    {
+      "date": "2025-10-21",
+      "description": "ACH CORP DEBIT TRAN FEE INTUIT 60306303 ROA STAFFINGCUSTOMER ID 524771999465810",
+      "amount": -9.18
+    },
+    {
+      "date": "2025-10-21",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": -1179.8
+    },
+    {
+      "date": "2025-10-21",
+      "description": "SERVICE CHARGES - PRIOR PERIOD",
+      "amount": -104.5
+    },
+    {
+      "date": "2025-10-22",
+      "description": "ACH CORP DEBIT TRAN FEE INTUIT 62911983 ROA STAFFINGCUSTOMER ID 524771999465810",
+      "amount": -9.33
+    },
+    {
+      "date": "2025-10-22",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": -1179.8
+    },
+    {
+      "date": "2025-10-22",
+      "description": "BUS ONLINE DOMESTIC WIRE WIRE REF# 20251022-00014626",
+      "amount": -36758.33
+    },
+    {
+      "date": "2025-10-23",
+      "description": "DEBIT CARD PURCHASE AMAZON MKTPL*NU7SI 10-22 Amzn.com/bill WA 3918",
+      "amount": -191.98
+    },
+    {
+      "date": "2025-10-23",
+      "description": "DEBIT CARD PURCHASE SPEEDWAY 47007 10-22 LOUISBURG NC 8149",
+      "amount": -66.32
+    },
+    {
+      "date": "2025-10-23",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": -1179.8
+    },
+    {
+      "date": "2025-10-24",
+      "description": "RECURRING INTERNET PAYMENT Ext Trnsfr JPMorgan Chase 26320631311",
+      "amount": -610.0
+    },
+    {
+      "date": "2025-10-24",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": -1179.8
+    },
+    {
+      "date": "2025-10-24",
+      "description": "ZELLE BUSINESS PAYMENT TO Moises Ortiz PAYMENT ID BBT344205641",
+      "amount": -600.0
+    },
+    {
+      "date": "2025-10-27",
+      "description": "DEBIT CARD RECURRING PYMT INTUIT *QBooks Onl 10-24 CL.INTUIT.COM CA 3918",
+      "amount": -38.0
+    },
+    {
+      "date": "2025-10-27",
+      "description": "DEBIT CARD PURCHASE SPEEDWAY 47007 10-25 LOUISBURG NC 8149",
+      "amount": -53.26
+    },
+    {
+      "date": "2025-10-27",
+      "description": "DEBIT CARD RECURRING PYMT BRIGHTSPEED 10-26 833-692-7773 NC 3918",
+      "amount": -75.0
+    },
+    {
+      "date": "2025-10-27",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": -1179.8
+    },
+    {
+      "date": "2025-10-27",
+      "description": "ACH CORP DEBIT ACHPAYMENT ASPIREFUNDING ROA STAFFING LLC 93250CUSTOMER ID W149",
+      "amount": -2000.0
+    },
+    {
+      "date": "2025-10-28",
+      "description": "ACH CORP DEBIT SUPERFAST Top Choice Finan ROA STAFFING LLCCUSTOMER ID",
+      "amount": -1764.71
+    },
+    {
+      "date": "2025-10-28",
+      "description": "ACH CORP DEBIT TRAN FEE INTUIT 77830813 ROA STAFFINGCUSTOMER ID 524771999465810",
+      "amount": -35.9
+    },
+    {
+      "date": "2025-10-28",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": -1179.8
+    },
+    {
+      "date": "2025-10-29",
+      "description": "DEBIT CARD RECURRING PYMT ALLSTATE *PAYME 10-28 800-255-7828 IL 3918",
+      "amount": -691.13
+    },
+    {
+      "date": "2025-10-29",
+      "description": "DEBIT CARD PURCHASE TRACTOR SUPPLY #22 10-28 LOUISBURG NC 8149",
+      "amount": -89.17
+    },
+    {
+      "date": "2025-10-29",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": -1179.8
+    },
+    {
+      "date": "2025-10-29",
+      "description": "BUS ONLINE DOMESTIC WIRE WIRE REF# 20251029-00019725",
+      "amount": -21767.77
+    },
+    {
+      "date": "2025-10-30",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": -1179.8
+    },
+    {
+      "date": "2025-10-31",
+      "description": "DEBIT CARD RECURRING PYMT GOTHAM HAPymt2of4 10-30 866-783-8247 CT 8149",
+      "amount": -49.99
+    },
+    {
+      "date": "2025-10-31",
+      "description": "DEBIT CARD PURCHASE NCDMV REG 081 LOUI 10-30 LOUISBURG NC 8149",
+      "amount": -157.61
+    },
+    {
+      "date": "2025-10-31",
+      "description": "ACH CORP DEBIT 7864084809 UFCE/ 8449090040 ROA STAFFING LLCUSTOMER ID",
+      "amount": -1179.8
+    },
+    {
+      "date": "2025-10-01",
+      "description": "EDI PYMNTS ATLANTIC CORP OF 0009ROA STAFFING LLC CUSTOMER ID 001487399002909",
+      "amount": -3364.12
+    },
+    {
+      "date": "2025-10-01",
+      "description": "7864084809 UFCE/ 8449090040 ROA STAFFING LL CUSTOMER ID",
+      "amount": -8378.7
+    },
+    {
+      "date": "2025-10-01",
+      "description": "INCOMING WIRE TRANSFER WIRE REF# 20251001-00019595",
+      "amount": -21495.0
+    },
+    {
+      "date": "2025-10-03",
+      "description": "PAYABLES C THE HANOR CO ROA STAFFING LLC CUSTOMER ID 009753",
+      "amount": -4875.12
+    },
+    {
+      "date": "2025-10-03",
+      "description": "EDI PYMNTS ATLANTIC CORP OF 0011ROA STAFFING LLC CUSTOMER ID 001487886363210",
+      "amount": -31095.96
+    },
+    {
+      "date": "2025-10-07",
+      "description": "EDI PYMNTS ATLANTIC CORP OF 0009ROA STAFFING LLC CUSTOMER ID 001488293433210",
+      "amount": -13969.44
+    },
+    {
+      "date": "2025-10-08",
+      "description": "7864084809 UFCE/ 8449090040 ROA STAFFING LL CUSTOMER ID",
+      "amount": -8378.7
+    },
+    {
+      "date": "2025-10-10",
+      "description": "PAYABLES C THE HANOR CO ROA STAFFING LLC CUSTOMER ID 009753",
+      "amount": -5617.31
+    },
+    {
+      "date": "2025-10-10",
+      "description": "EDI PYMNTS ATLANTIC CORP OF 0009ROA STAFFING LLC CUSTOMER ID 001488777093210",
+      "amount": -5661.8
+    },
+    {
+      "date": "2025-10-15",
+      "description": "7864084809 UFCE/ 8449090040 ROA STAFFING LL CUSTOMER ID",
+      "amount": -8078.7
+    },
+    {
+      "date": "2025-10-17",
+      "description": "PAYABLES C THE HANOR CO ROA STAFFING LLC CUSTOMER ID 009753",
+      "amount": -5178.99
+    },
+    {
+      "date": "2025-10-17",
+      "description": "EDI PYMNTS ATLANTIC CORP OF 0010ROA STAFFING LLC CUSTOMER ID 001489861424410",
+      "amount": -5478.31
+    },
+    {
+      "date": "2025-10-20",
+      "description": "2025-10-20 LIVE COMFORTABLY ROA STAFFING LLC CUSTOMER ID",
+      "amount": -15426.5
+    },
+    {
+      "date": "2025-10-21",
+      "description": "EDI PYMNTS ATLANTIC CORP OF 0011ROA STAFFING LLC CUSTOMER ID 001490251270110",
+      "amount": -20958.65
+    },
+    {
+      "date": "2025-10-22",
+      "description": "7864084809 UFCE/ 8449090040 ROA STAFFING LL CUSTOMER ID",
+      "amount": -3784.7
+    },
+    {
+      "date": "2025-10-24",
+      "description": "PAYABLES C THE HANOR CO ROA STAFFING LLC CUSTOMER ID 009753",
+      "amount": -4799.46
+    },
+    {
+      "date": "2025-10-29",
+      "description": "7864084809 UFCE/ 8449090040 ROA STAFFING LL CUSTOMER ID",
+      "amount": -3764.7
+    },
+    {
+      "date": "2025-10-30",
+      "description": "2025-10-30 LIVE COMFORTABLY ROA STAFFING LLC CUSTOMER ID",
+      "amount": -1200.47
+    },
+    {
+      "date": "2025-10-31",
+      "description": "PAYABLES C THE HANOR CO ROA STAFFING LLC CUSTOMER ID 009753",
+      "amount": -4546.24
+    }
+  ],
+  "confidence": "medium",
+  "processing_time_seconds": 5.7187230587005615,
+  "source_file": "10 (1).pdf"
+}
